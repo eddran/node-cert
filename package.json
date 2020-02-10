@@ -17,6 +17,7 @@
     "greenlock-store-fs": "^3.2.2"
   },
   "devDependencies": {
+    "@types/node": "^13.7.0",
     "nodemon": "^2.0.2",
     "prettier": "^1.19.1",
     "ts-node": "^8.6.2",

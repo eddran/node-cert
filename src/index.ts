@@ -4,7 +4,7 @@ const greenLockApp = greenLock.create({
   packageRoot: path.resolve(''),
   configDir: './greenlock.d/config.json',
   packageAgent: 'node-cert-2/1.2',
-  maintainerEmail: 'jon2@example.com',
+  maintainerEmail: 's1nc4pp@gmail.com',
   staging: true,
   notify: function(event, details) {
     if ('error' === event) {
@@ -17,7 +17,7 @@ const greenLockApp = greenLock.create({
 greenLockApp.manager
   .defaults({
     agreeToTerms: true,
-    subscriberEmail: 'webhosting2@example.com',
+    subscriberEmail: 's1nc4pp@gmail.com',
   })
   .then(function(fullConfig) {
     console.log('Success 1', fullConfig);
