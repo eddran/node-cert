@@ -15,5 +15,13 @@
     "subscriberEmail": "s1nc4pp@gmail.com",
     "agreeToTerms": true
   },
-  "sites": []
+  "sites": [
+    {
+      "subject": "sslapp.com",
+      "altnames": [
+        "sslapp.com"
+      ],
+      "renewAt": 1
+    }
+  ]
 }

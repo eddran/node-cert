@@ -17,10 +17,16 @@
   },
   "sites": [
     {
-      "subject": "node.storadewebservices.com",
+      "subject": "sslapp.com",
       "altnames": [
-        "node.storadewebservices.com",
-        "www.node.storadewebservices.com"
+        "sslapp.com"
+      ],
+      "renewAt": 1
+    },
+    {
+      "subject": "karga.com",
+      "altnames": [
+        "karga.com"
       ],
       "renewAt": 1
     }
