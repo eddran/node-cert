@@ -24,7 +24,7 @@ greenLockApp.manager
   });
 
 const altnames = ['storadewebservices.com', 'www.storadewebservices.com.com'];
-/*
+
 greenLockApp
   .add({
     subject: altnames[0],
@@ -33,4 +33,3 @@ greenLockApp
   .then(function(response) {
     console.log('Success 2', response);
   });
-*/

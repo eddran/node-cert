@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6966b669-3b43-4e42-a1db-acea1588975f" name="Default Changelist" comment="" />
+    <list default="true" id="6966b669-3b43-4e42-a1db-acea1588975f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XcXUq5s4M8fw409OGLnvZBcxZw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,7 +31,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
@@ -47,11 +57,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581346375281</updated>
-      <workItem from="1581346377902" duration="4028000" />
+      <workItem from="1581346377902" duration="4427000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2480" y="199" key="#Deployment" timestamp="1581351227806">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2480" y="199" key="#Deployment/1920.23.1920.1057/0.23.1920.1022@1920.23.1920.1057" timestamp="1581351227806" />
+    <state x="2724" y="440" key="WebDeployment.AddServerDialog.v.1" timestamp="1581351195036">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2724" y="440" key="WebDeployment.AddServerDialog.v.1/1920.23.1920.1057/0.23.1920.1022@1920.23.1920.1057" timestamp="1581351195036" />
   </component>
 </project>
