@@ -23,7 +23,7 @@ greenLockApp.manager
     console.log('Success 1', fullConfig);
   });
 
-const altnames = ['node.storadewebservices.com'];
+const altnames = ['storadewebservices.com'];
 
 greenLockApp
   .add({
