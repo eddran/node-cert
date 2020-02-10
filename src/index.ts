@@ -1,5 +1,5 @@
 import * as path from 'path';
-const greenLock = require('greenlock');
+const greenLock = require('@root/greenlock');
 const greenLockApp = greenLock.create({
   packageRoot: path.resolve(''),
   configDir: './greenlock.d/config.json',
