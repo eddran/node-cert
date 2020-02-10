@@ -1,0 +1,25 @@
+{
+  "name": "node-cert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "@greenlock/manager": "^3.1.0",
+    "@root/greenlock": "v4",
+    "@root/greenlock-express": "^4.0.3",
+    "acme-http-01-standalone": "^3.0.5",
+    "express": "^4.17.1",
+    "greenlock": "^4.0.4",
+    "greenlock-express": "^4.0.3",
+    "greenlock-store-fs": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "prettier": "^1.19.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
